@@ -2,3 +2,7 @@ pandas
 numpy
 matplotlib
 openpyxl
+torch
+albumentations 
+opencv-python
+scikit-learn
